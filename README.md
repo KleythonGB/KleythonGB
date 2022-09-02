@@ -1,6 +1,7 @@
-- 👋 Olá meu nome é **@KleythonGB** da Turma **1°A**
+- 👋 Olá meu nome é **@KleythonGB** **N°32** da Turma **1°A** da escola **Milton Carneiro**
 - Link de E-mail para contato [Email](kleyton.dias.oliveira@escola.pr.gov.br)
 - 👀 Eu estou interessado em aprender novas linguagens de programação
 - 🌱 Eu estou aprendendo a programar 
 - 💞️ Sou aluno de rede pública do estado do Paraná
 - 📫 Iniciei meus estudos de informática em 2019
+-
